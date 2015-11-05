@@ -1,0 +1,1 @@
+C:\androiddev\sdk\platform-tools\adb forward tcp:54999 localabstract:Unity-com.tencent.tmgp.ttcz
